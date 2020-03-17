@@ -1,0 +1,1 @@
+{"version":3,"sources":["Thing.scss"],"names":[],"mappings":"AAAA,OACE,qBAAwB,CAEtB,iBAAa,CACb,aAAS,CAJb,cAOI,aAAc,CACd,cAAe","file":"main.e5a2a18c.chunk.css","sourcesContent":[".Thing {\n  background-color: yellow;\n  font: {\n    family: Arial;\n    size: 3em;\n  }\n  button {\n    display: block;\n    margin-top: 2em;\n  }\n}\n"]}

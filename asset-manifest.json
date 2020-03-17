@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/awesome-react-app/static/css/main.e5a2a18c.chunk.css",
+    "main.js": "/awesome-react-app/static/js/main.b68de94b.chunk.js",
+    "main.js.map": "/awesome-react-app/static/js/main.b68de94b.chunk.js.map",
+    "runtime-main.js": "/awesome-react-app/static/js/runtime-main.86d244f3.js",
+    "runtime-main.js.map": "/awesome-react-app/static/js/runtime-main.86d244f3.js.map",
+    "static/js/2.534895c4.chunk.js": "/awesome-react-app/static/js/2.534895c4.chunk.js",
+    "static/js/2.534895c4.chunk.js.map": "/awesome-react-app/static/js/2.534895c4.chunk.js.map",
+    "index.html": "/awesome-react-app/index.html",
+    "precache-manifest.434e36c3c625cd59b6189e4aef2af8df.js": "/awesome-react-app/precache-manifest.434e36c3c625cd59b6189e4aef2af8df.js",
+    "service-worker.js": "/awesome-react-app/service-worker.js",
+    "static/css/main.e5a2a18c.chunk.css.map": "/awesome-react-app/static/css/main.e5a2a18c.chunk.css.map",
+    "static/js/2.534895c4.chunk.js.LICENSE.txt": "/awesome-react-app/static/js/2.534895c4.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.86d244f3.js",
+    "static/js/2.534895c4.chunk.js",
+    "static/css/main.e5a2a18c.chunk.css",
+    "static/js/main.b68de94b.chunk.js"
+  ]
+}
